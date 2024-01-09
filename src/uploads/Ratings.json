@@ -1,0 +1,14 @@
+[
+  {
+    "movieName": "Movie c",
+    "rating": 7,
+    "userID": 12345,
+    "date": "2023-09-20"
+  },
+  {
+    "movieName": "Movie D",
+    "rating": 8,
+    "userID": 67890,
+    "date": "2023-09-21"
+  }
+]
